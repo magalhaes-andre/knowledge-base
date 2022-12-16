@@ -1,7 +1,7 @@
-- Leftmost Binary Search - called 'left bisection' or right
-- Binary Search
-- Deque
-- String Concatenation (how loops are not acceptable and ways of using StringBuilder)
-- Inorder Traversal of a Binary Search Tree
-- Helper Pointers in a Linked List
-- Quick Select
+- [ ] Leftmost Binary Search - called 'left bisection' or right
+- [ ] Binary Search
+- [ ] Deque
+- [ ] String Concatenation (how loops are not acceptable and ways of using StringBuilder)
+- [ ] Inorder Traversal of a Binary Search Tree
+- [ ] Helper Pointers in a Linked List
+- [ ] Quick Select

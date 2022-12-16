@@ -1,6 +1,6 @@
-- What is global management in React?
-- What is the difference between Number and number for react?
-- How component lifecycle works? (componentWillMount, componentDidMount, componentWillUpdate, componentWillUnmount and their relationships with hooks)
-- How useEffect works?
-- Conditional rendering, how does it work? It is something from React specifically? 
-- Dissert on differences between Class components and Function components. I do understand that even the documentation seems to appraise the favor for Function components, but why it is needed to have something like this.function.bind to pass the state into a function if you're on a Class component? 
+- [ ] What is global management in React?
+- [ ] What is the difference between Number and number for react?
+- [ ] How component lifecycle works? (componentWillMount, componentDidMount, componentWillUpdate, componentWillUnmount and their relationships with hooks)
+- [ ] How useEffect works?
+- [ ] Conditional rendering, how does it work? It is something from React specifically? 
+- [ ] Dissert on differences between Class components and Function components. I do understand that even the documentation seems to appraise the favor for Function components, but why it is needed to have something like this.function.bind to pass the state into a function if you're on a Class component? 
