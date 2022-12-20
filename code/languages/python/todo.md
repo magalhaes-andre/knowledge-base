@@ -1,0 +1,1 @@
+- [ ] Write on difference between Python 3 and PyPy3
